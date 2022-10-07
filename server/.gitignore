@@ -1,6 +1,7 @@
 node_modules
 request.rest
 .env
+package-lock.json
 
 # Editor directories and files
 .vscode/*
